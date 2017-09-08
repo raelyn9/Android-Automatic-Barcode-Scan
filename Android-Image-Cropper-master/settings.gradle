@@ -1,0 +1,4 @@
+include ':test', ':openCVLibrary300'
+include 'cropper'
+include 'sample'
+include 'quick-start'
