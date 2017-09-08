@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f51027992faba967de9431e5858ee4d1c49487f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/src/main/libs/javase-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d0cd0280ea9919ca928df5a3752b6f6a645b00e">
+        <dex dex="/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/transforms/dex/debug/folders/1000/2/javase-3.3.0_2200c08a39ebe2bb4f41d17b02ed37777a09cde9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9050b28fbba2ad22af55e9f3d7d809d28d3153f">
+        <dex dex="/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_393d19f20fd39730cf5798ad8e0c4f2f574b592e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/src/main/libs/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/transforms/dex/debug/folders/1000/2/core-3.3.0_72e574a3a31c125df486ab6e00ac618e3eddd06a/classes.dex" />
+    </item>
+
+</items>

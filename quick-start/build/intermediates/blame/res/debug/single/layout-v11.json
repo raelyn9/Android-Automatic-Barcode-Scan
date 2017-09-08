@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/quick-start/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

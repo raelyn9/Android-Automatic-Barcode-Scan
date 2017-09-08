@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/openCVLibrary300/src/main/assets"/><source path="/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/openCVLibrary300/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/openCVLibrary300/src/release/assets"/></dataSet></merger>

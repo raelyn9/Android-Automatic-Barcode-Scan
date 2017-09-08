@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/cropper/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/cropper/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/cropper/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/cropper/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/cropper/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ruiyingbu/Downloads/Android-Image-Cropper-master/cropper/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ruiyingbu/.android/build-cache/16cc4144ccf8648ceebfc78b186d684a1d257bcb/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/cropper/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/raelynbu/Desktop/WORK/Android-Image-Cropper-master/cropper/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/raelynbu/.android/build-cache/8f6d31bb64ad599e98caa569a60ad92ab8387720/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
